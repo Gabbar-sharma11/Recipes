@@ -13,15 +13,18 @@ header{
 section{
     margin: 0px 25%;
     border: 1px solid #f2f2f2;
-    padding: 25px;
+    padding: 15px;
     background-color: bisque;
 
+}
+ul{
+    padding:10px;
 }
 h2,h3,p {
     margin-bottom: 10px;
 
 }
 img{
-    height: 400px;
-    width: 400px;
+    height: 300px;
+    width: 280px;
 }
